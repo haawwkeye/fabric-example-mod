@@ -1,3 +1,4 @@
+[![build](https://github.com/haawwkeye/Test-Mod/actions/workflows/build.yml/badge.svg)](https://github.com/haawwkeye/Test-Mod/actions/workflows/build.yml)
 # Fabric Example Mod
 
 ## Setup
